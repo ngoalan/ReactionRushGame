@@ -1,29 +1,69 @@
-[Custom Project Proposal.docx](https://github.com/user-attachments/files/18530303/Custom.Project.Proposal.docx)
-Demontration Video : https://youtu.be/UEnKrEKavzs
+# Reaction Rush: A Reflex-Testing Game
 
-Reaction Rush is a fast-paced, reflex-testing game where the goal is to respond as quickly as possible to a series of flashing LEDs. Eight LEDs are arranged in a line, and at random intervals, one or more of these LEDs will light up. The player must press the corresponding button for each lit LED before time runs out.
+[Custom Project Proposal.docx](https://github.com/user-attachments/files/18530303/Custom.Project.Proposal.docx)  
+**Demonstration Video**: [Watch on YouTube](https://youtu.be/UEnKrEKavzs)
 
-Reaction Rush offers two modes: Easy Mode and Hard Mode. In Easy Mode, the LEDs light up at a slower pace, and the time allowed for the player to respond is more generous, making it accessible for beginners or those looking to practice their reflexes. Hard Mode increases the challenge by speeding up the intervals at which the LEDs light up and reducing the time allowed to press the correct buttons, providing a more intense and competitive experience.
+---
 
-As the game progresses, the LEDs will light up more frequently, challenging the player to react faster and with greater accuracy. If the player successfully presses the correct buttons within the allotted time, they will continue to play, with their score increasing based on their speed and precision. However, if the player presses an incorrect button or fails to respond in time, the game ends with a score of 0, and a short tune signals their loss.
+## Overview
 
-If the player manages to respond correctly to all the LEDs, a victory tune plays, and their final score is displayed. The quicker and more accurate the player, the higher the score they will achieve. Reaction Rush is a test of both speed and accuracy, offering players a chance to challenge themselves and improve their reaction times, with varying levels of difficulty to suit all skill levels.
+**Reaction Rush** is a fast-paced game designed to test reflexes and reaction time. Eight LEDs are arranged in a line, lighting up randomly. The player must press the corresponding button for each lit LED before time runs out.
 
-Basic Functionality
-The baseline version of Reaction Rush is designed to test the player’s reaction time by lighting up LEDs and requiring the player to press corresponding buttons as quickly as possible. The game is structured to be simple yet engaging, with two levels of difficulty and immediate feedback based on the player’s performance.
+The game offers **two difficulty modes**:
+- **Easy Mode**: Slower LED intervals with more time to respond, ideal for beginners.
+- **Hard Mode**: Faster LED intervals with reduced response time, providing a more intense challenge.
 
-Gameplay Overview:
-LED and Button Interaction: The game consists of six LEDs arranged in a line, each LED corresponding to a button positioned directly below it. During gameplay, one or more LEDs will light up randomly. The player must press the correct buttons corresponding to the lit LEDs within a specified time limit. The faster the player reacts, the better their score.
+---
 
-Difficulty Modes: Before starting the game, the player can choose between two modes using an additional button:
-Easy Mode: LEDs light up at a slower pace, giving the player more time to react.
-Hard Mode: LEDs light up more quickly, reducing the time allowed for each response and increasing the challenge.
-Starting the Game: The game begins when the player presses the designated "Start" button. Once started, the first LED(s) will light up according to the selected difficulty mode, and the game enters the reaction phase.
+## Gameplay Features
 
-Reaction Phase: As the LEDs light up, the player must quickly press the corresponding buttons. If the player successfully presses the correct button within the allotted time, the LED will turn off, and the next LED(s) will light up. The game continues in this manner.
+### **1. LED and Button Interaction**
+- Six LEDs are aligned with their corresponding buttons below.
+- LEDs light up randomly, and players must quickly press the correct buttons within a set time limit.
 
-Scoring: The game tracks how quickly the player responds to each LED. In Easy Mode, the scoring is more forgiving, allowing for slower reaction times, while in Hard Mode, the player must react quickly to earn a high score. If the player presses an incorrect button or fails to press the correct button within the time limit, the game ends immediately, and their score is set to zero.
+### **2. Difficulty Modes**
+- **Easy Mode**: LEDs light up at a slower pace, allowing for more relaxed gameplay.
+- **Hard Mode**: LEDs light up faster, requiring quicker reactions for higher scores.
 
-Game End: If the player successfully responds to all the LEDs within 30s, a victory tune plays through the buzzer, and their final score is displayed. If the player fails or presses the wrong button, a defeat tune is played, and the game ends with a score of 0.
+### **3. Scoring System**
+- **Easy Mode**: Forgiving scoring with a focus on improving reaction time.
+- **Hard Mode**: Higher scores for faster and more precise responses.
+- Incorrect button presses or missed responses end the game immediately with a score of 0.
 
-Reset and Restart: After the game ends, the player can press the "Start" button to begin a new game. The difficulty mode can be selected before starting each new game.
+### **4. Game Progression**
+- As the game progresses, LEDs light up more frequently, challenging the player's speed and accuracy.
+- Successfully responding to all LEDs results in a **victory tune** and the display of the final score.
+- Failure to press the correct button in time or pressing the wrong button triggers a **defeat tune** and ends the game.
+
+### **5. Reset and Restart**
+- After the game ends, the player can press the **Start button** to begin a new session.
+- Players can select the difficulty mode before starting a new game.
+
+---
+
+## Basic Functionality
+
+The core goal of Reaction Rush is to test the player’s reaction time through an interactive LED and button system. The game provides immediate feedback on the player's performance while offering a simple yet engaging experience. 
+
+---
+
+## Gameplay Overview
+
+### **Starting the Game**
+- The game begins when the player presses the designated **Start button**.
+- LEDs light up randomly according to the selected difficulty mode.
+
+### **Reaction Phase**
+- Players must press the button corresponding to the lit LED within the given time limit.
+- Correct responses turn off the LED, and the next LED(s) light up.
+- Incorrect responses or failing to respond in time ends the game immediately.
+
+### **Game End**
+- **Victory**: Successfully responding to all LEDs within 30 seconds plays a victory tune, and the final score is displayed.
+- **Defeat**: Failing to respond or pressing the wrong button triggers a defeat tune, and the score is set to 0.
+
+---
+
+## Why Play Reaction Rush?
+
+Reaction Rush offers players a chance to challenge their reflexes and improve reaction times with increasing levels of difficulty. Whether for casual fun or competitive gameplay, the game provides an engaging experience for all skill levels.
