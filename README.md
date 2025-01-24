@@ -1,6 +1,5 @@
 # Reaction Rush: A Reflex-Testing Game
 
-[Custom Project Proposal.docx](https://github.com/user-attachments/files/18530303/Custom.Project.Proposal.docx)  
 **Demonstration Video**: [Watch on YouTube](https://youtu.be/UEnKrEKavzs)
 
 ---
